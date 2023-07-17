@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace MallardDuck\LucideIcons;
+namespace Technikermathe\LucideIcons;
 
 use BladeUI\Icons\Factory;
 use Illuminate\Contracts\Container\Container;

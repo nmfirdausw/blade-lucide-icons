@@ -1,37 +1,29 @@
 # Blade Lucide Icons
 
-<a href="https://github.com/mallardduck/blade-lucide-icons/actions?query=workflow%3ATests">
-    <img src="https://github.com/mallardduck/blade-lucide-icons/workflows/Tests/badge.svg" alt="Tests">
+<a href="https://github.com/technkermathe/blade-lucide-icons/actions?query=workflow%3ATests">
+    <img src="https://github.com/technikermathe/blade-lucide-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
-<a href="https://packagist.org/packages/mallardduck/blade-lucide-icons">
-    <img src="https://img.shields.io/packagist/v/mallardduck/blade-lucide-icons" alt="Latest Stable Version">
+<a href="https://packagist.org/packages/technikermthe/blade-lucide-icons">
+    <img src="https://img.shields.io/packagist/v/technikermathe/blade-lucide-icons" alt="Latest Stable Version">
 </a>
-<a href="https://packagist.org/packages/mallardduck/blade-lucide-icons">
-    <img src="https://img.shields.io/packagist/dt/mallardduck/blade-lucide-icons" alt="Total Downloads">
+<a href="https://packagist.org/packages/technikermathe/blade-lucide-icons">
+    <img src="https://img.shields.io/packagist/dt/technikermathe/blade-lucide-icons" alt="Total Downloads">
 </a>
 
 A package to easily make use of [Lucide](https://github.com/lucide-icons/lucide) Icons in your Laravel Blade views.
 
 For a full list of available icons see [the SVG directory](resources/svg) or preview them at [lucide.dev](https://lucide.dev/).
 
-## A message to Russian 🇷🇺 people
-
-If you currently live in Russia, please read [this message](./ToRussianPeople.md).
-
 ## Requirements
 
-- PHP 7.4 or higher
-- Laravel 8.0 or higher
+- PHP 8.1 or higher
+- Laravel 9.0 or higher
 
 ## Installation
 
 ```bash
-composer require mallardduck/blade-lucide-icons
+composer require technikermathe/blade-lucide-icons
 ```
-
-## Updating
-
-Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
 
 ## Blade Icons
 
@@ -91,7 +83,7 @@ Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent ch
 
 ## Maintainers
 
-Blade LucideIcons is developed and maintained by Dan Pock.
+This is a [fork of the initial work of Dan Pock](https://github.com/mallardduck/blade-lucide-icons).
 
 ## License
 

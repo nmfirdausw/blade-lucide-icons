@@ -1,9 +1,5 @@
 # Changelog
 
-This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
-
-## [Unreleased](https://github.com/mallardduck/blade-lucide-icons/compare/1.6.0...main)
-
 ## 1.11.0 - (2022-09-27)
 ### Added
 - Update lucide to v0.112.0
