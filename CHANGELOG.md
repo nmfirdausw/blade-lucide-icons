@@ -1,5 +1,30 @@
 # Changelog
 
+## 2.0.0 (2023-07-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* Change namespace to technikermathe/blade-lucide-icons
+* Add support for laravel 10
+* Bump minimum required PHP Version to 8.1
+
+### Features
+
+* Add support for laravel 10 ([d695982](https://github.com/Technikermathe/blade-lucide-icons/commit/d695982cf32f17d0e9e4d16230f6a5ae04e41be0))
+* Bump minimum required PHP Version to 8.1 ([0675595](https://github.com/Technikermathe/blade-lucide-icons/commit/0675595f613e1c6f09e5b3c2fc9248ecb67797a4))
+* **icons:** Update Lucide to v0.261.0 ([ef354f8](https://github.com/Technikermathe/blade-lucide-icons/commit/ef354f85e988b626b089c5a91c671ad45cc9a165))
+
+
+### Code Refactoring
+
+* Change namespace to technikermathe/blade-lucide-icons ([d10ff06](https://github.com/Technikermathe/blade-lucide-icons/commit/d10ff06414335797bc8dc3aad71bd6647b92cfc1))
+
+
+### Miscellaneous Chores
+
+* release 2.0.0 ([a7f3554](https://github.com/Technikermathe/blade-lucide-icons/commit/a7f3554eb264c3a74ac4b06ef74041f26f773c3f))
+
 ## 1.11.0 - (2022-09-27)
 ### Added
 - Update lucide to v0.112.0
