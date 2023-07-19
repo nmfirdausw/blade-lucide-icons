@@ -72,6 +72,10 @@ jobs:
 
       - name: Run Tests
         run: vendor/bin/phpunit
+        
+      - name: Restore original composer.json
+        run: |
+          composer remove illuminate/contracts --no-interaction
 
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9
