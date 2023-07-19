@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/Technikermathe/blade-lucide-icons/compare/v2.1.0...v2.1.1) (2023-07-19)
+
+
+### Bug Fixes
+
+* **ci:** Fix errornous composer requirement ([f7a999d](https://github.com/Technikermathe/blade-lucide-icons/commit/f7a999dfd6e0f5a15cf4ce2b8f2bf7be7e5cb3f4))
+
 ## [2.1.0](https://github.com/Technikermathe/blade-lucide-icons/compare/v2.0.0...v2.1.0) (2023-07-19)
 
 
