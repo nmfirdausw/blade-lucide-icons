@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.2](https://github.com/Technikermathe/blade-lucide-icons/compare/v2.1.1...v2.1.2) (2023-07-19)
+
+
+### Bug Fixes
+
+* **ci:** Restore original composer.json ([7135e4e](https://github.com/Technikermathe/blade-lucide-icons/commit/7135e4e9bb6b850e24bee42de990c9dbad144fe1))
+
 ## [2.1.1](https://github.com/Technikermathe/blade-lucide-icons/compare/v2.1.0...v2.1.1) (2023-07-19)
 
 
