@@ -61,7 +61,7 @@ jobs:
       - name: Update Submodule
         run: |
           cd lucide
-          git fetch
+          git fetch --all --tags
           git checkout ${{ needs.check_versions.outputs.latest }}
 
       - name: Run Generator
