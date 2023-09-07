@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.13.0](https://github.com/Technikermathe/blade-lucide-icons/compare/v2.12.0...v2.13.0) (2023-09-07)
+
+
+### Features
+
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.275.0 ([61d7409](https://github.com/Technikermathe/blade-lucide-icons/commit/61d740910e273429d868e2dc0edf230f15de1e46))
+
 ## [2.12.0](https://github.com/Technikermathe/blade-lucide-icons/compare/v2.11.0...v2.12.0) (2023-09-01)
 
 
