@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.25.0](https://github.com/Technikermathe/blade-lucide-icons/compare/v2.24.0...v2.25.0) (2023-11-30)
+
+
+### Features
+
+* **icons:** Update Lucide to https://github.com/lucide-icons/lucide/releases/tag/0.294.0 ([67e6560](https://github.com/Technikermathe/blade-lucide-icons/commit/67e65604172bf52cbfea1ca85917889c5fc7f0d9))
+
+
+### Bug Fixes
+
+* Allow PHP 8.3 ([7abdd7a](https://github.com/Technikermathe/blade-lucide-icons/commit/7abdd7ae2c1968323fa8406b2075cfde3ba603df)), closes [#28](https://github.com/Technikermathe/blade-lucide-icons/issues/28)
+
 ## [2.24.0](https://github.com/Technikermathe/blade-lucide-icons/compare/v2.23.0...v2.24.0) (2023-11-04)
 
 
