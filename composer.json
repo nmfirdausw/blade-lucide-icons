@@ -15,7 +15,7 @@
     ],
     "homepage": "https://github.com/technikermathe/blade-lucide-icons",
     "require": {
-        "php": "~8.1.0|~8.2.0",
+        "php": "~8.1.0|~8.2.0|~8.3.0",
         "blade-ui-kit/blade-icons": "^1.4",
         "illuminate/support": "^9.0|^10.0"
     },
